@@ -18,7 +18,7 @@ Must have an internet connection to work.
 
 * What you should see
 
-![preview of what the program and shortcut will look like](./CCIntercardBalance/bin/preview.png)
+![preview of what the program and shortcut will look like](./CCIntercardBalance/bin/preview.PNG)
 
 * Enter the card number into the Card Nuumber text box. preseeding 0's are not needed on the card number.
 
