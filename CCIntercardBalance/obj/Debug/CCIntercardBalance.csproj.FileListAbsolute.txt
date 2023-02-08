@@ -1,0 +1,14 @@
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\bin\Debug\CCIntercardBalance.exe.config
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\bin\Debug\CCIntercardBalance.exe
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\bin\Debug\CCIntercardBalance.pdb
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\obj\Debug\CCIntercardBalance.info.resources
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\obj\Debug\CCIntercardBalance.Properties.Resources.resources
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\obj\Debug\CCIntercardBalance.csproj.GenerateResource.cache
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\obj\Debug\CCIntercardBalance.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\obj\Debug\CCIntercardBalance.csproj.CopyComplete
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\obj\Debug\CCIntercardBalance.exe
+C:\Users\Brendan\source\repos\CCIntercardBalance\CCIntercardBalance\obj\Debug\CCIntercardBalance.pdb

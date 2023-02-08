@@ -1,0 +1,26 @@
+﻿Mac generated is CRAIGCRU1234
+.
+Here are Rest API’s you can use to get revenue reports available from our sandbox server.
+
+
+METHOD: GET
+
+GetGameRevenue
+https://development.intercardinc.com/WS_RevenueExtract/RestService/GetGameRevenue?macid= CCT202201261&startdate=20200701&enddate=20201225
+ 
+GetPosRevenue
+https://development.intercardinc.com/WS_RevenueExtract/RestService/GetPosRevenue?macid= CCT202201261&startdate=20200701&enddate=20211225
+ 
+GetTellerRevenue
+https://development.intercardinc.com/WS_RevenueExtract/RestService/GetTellerRevenue?macid= CCT202201261&startdate=20200701&enddate=20211225
+
+ 
+The MACID (CCT202201261) is a sort of a key that distinguishes a client record from one another,
+this is given by Intercard and may have a different value for the production servers. The start and end date is used to provide a date range for the query. 
+The format is YYYYMMDD.
+
+https://craigscruisers.icardinc.net/WS_RevenueExtract/RestService/GetGameRevenue?macid=CRAIGCRU1234&startdate=20220905&enddate=20220911
+
+WS_ProfileManagement/api/Card/{CorpID}/{AccountNumber}/{CardName}
+
+https://craigscruisers.icardinc.net/WS_ProfileManagement/api/Card/{7394}/{CARDNUMBER}/{CardName}
